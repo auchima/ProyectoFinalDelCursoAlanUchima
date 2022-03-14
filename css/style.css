@@ -403,11 +403,8 @@ ul {
 }
 
 .contactoList {
-  width: 1000px;
+  width: auto;
   margin: auto;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   letter-spacing: 1px;
 }
 

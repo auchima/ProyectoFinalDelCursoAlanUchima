@@ -280,9 +280,8 @@ ul{
   @include Section();
 }
 .contactoList{
-  width: 1000px;
+  width: auto;
   margin: auto;
-  justify-content: center;
   letter-spacing: 1px;
     &__title{
       color:$primaryLightBeige;
